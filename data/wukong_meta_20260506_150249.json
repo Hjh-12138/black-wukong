@@ -1,0 +1,20 @@
+{
+  "timestamp": "20260506_150249",
+  "md_files": [
+    "黑神话悟空_全探索攻略.md",
+    "黑神话悟空_全武器攻略.md",
+    "黑神话悟空_全泡酒物攻略.md",
+    "黑神话悟空_全珍玩攻略.md",
+    "黑神话悟空_全防具攻略.md"
+  ],
+  "total_sections": 270,
+  "total_base_pairs": 723,
+  "train_base_count": 651,
+  "eval_base_count": 72,
+  "train_samples": 1256,
+  "eval_samples": 72,
+  "num_qa_per_segment": 3,
+  "num_variants": 1,
+  "min_seg_len": 30,
+  "max_seg_len": 5000
+}
